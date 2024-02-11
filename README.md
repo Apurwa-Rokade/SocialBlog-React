@@ -1,6 +1,6 @@
 # SocialBlog
 
-A full-stack blogging application built using React, Appwrite, and other technologies. The project includes authentication services, CRUD operations, and file handling capabilities.
+Developed and implemented a feature-rich blogging application using React, Appwrite, and Redux.
 
 ## Features:
 - User authentication (signup, login, logout) using Appwrite
